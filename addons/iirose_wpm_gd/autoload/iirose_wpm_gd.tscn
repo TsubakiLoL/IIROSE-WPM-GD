@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://jnv0lyu7lgj4"]
+
+[ext_resource type="Script" path="res://addons/iirose_wpm_gd/autoload/iirose_wpm_gd.gd" id="1_n3c6x"]
+
+[node name="IIROSE_WPM_GD" type="Node"]
+script = ExtResource("1_n3c6x")
