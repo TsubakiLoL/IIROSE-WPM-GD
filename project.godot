@@ -21,7 +21,7 @@ IIROSEWPMGD="*res://addons/iirose_wpm_gd/autoload/iirose_wpm_gd.tscn"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/iirose_wpm_gd/plugin.cfg", "res://addons/iirose_wpm_go/plugin.cfg")
+enabled=PackedStringArray("res://addons/iirose_wpm_gd/plugin.cfg")
 
 [rendering]
 

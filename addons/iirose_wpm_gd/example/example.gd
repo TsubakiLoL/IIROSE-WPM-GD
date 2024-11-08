@@ -10,6 +10,7 @@ func add_mes(str:String):
 
 func _ready() -> void:
 	IIROSEWPMGD.origin_mes.connect(origin_call_back)
+
 	pass
 func origin_call_back(args):
 	add_mes(str(args))
